@@ -72,7 +72,7 @@ PORT=5001
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/Suraj0221/Chat-App.git
 ```
 
 ## 🏗️ Build and Run the Application"
@@ -100,7 +100,7 @@ http://localhost
 Follow these simple steps to get the project up and running on your local Host using docker.
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://github.com/Suraj0221/Chat-App.git
 ```
 
 ```bash
